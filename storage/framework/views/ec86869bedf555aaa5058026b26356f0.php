@@ -1,0 +1,2 @@
+
+<?php echo $__env->make('layout.layout', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\Users\m2364\OneDrive\Bureau\Laravel\iChat\resources\views/asba.blade.php ENDPATH**/ ?>
